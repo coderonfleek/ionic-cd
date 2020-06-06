@@ -21,20 +21,9 @@ import {
   IonInput
 } from "@ionic/react";
 
-import { add, pin } from "ionicons/icons";
+import { add } from "ionicons/icons";
 
 import "./Tab1.css";
-
-const sampleTasks = [
-  {
-    id: 1,
-    name: "Wash dishes"
-  },
-  {
-    id: 2,
-    name: "Buy Groceries"
-  }
-];
 
 interface Task {
   id: number;
