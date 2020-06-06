@@ -45,7 +45,8 @@
     ]
   },
   "devDependencies": {
-    "@capacitor/cli": "2.1.2"
+    "@capacitor/cli": "2.1.2",
+    "firebase-tools": "^8.4.2"
   },
   "description": "An Ionic project"
 }
